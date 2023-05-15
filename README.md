@@ -26,4 +26,4 @@ It uses:
 
 To create the dataset for training I used spacy and nltk on BookCorpus. 
 
-The model has low accuracy on more complicated sentences due to overfitting on a small amount of data.
+The idea for this project is a part of the bigger plan to create a game master assistant for tabletop RPGs - Software that would analyze players' and master's speech for world information. For example: creating a map of the world, distinguishing PCs/NPCs and creating their descriptions, and playing sounds of the world in which players' characters act.
